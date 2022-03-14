@@ -1,3 +1,6 @@
+<img src="![image](https://user-images.githubusercontent.com/78248093/158192560-3972a41f-c26e-4b61-b155-e6cb08ba4b17.png)
+"/>
+
 <h2 align="left">Hey there 👋</h2>
 
 <p>I'm hardworking, persevere, and fast learner person. Knowledgeable Web Developer brings front- and back-end design to promote organization-specific website presence. Using HTML, CSS and JavaScript to generate custom web page designs and with the use of PHP and Python programming languages to provide a back-end function.</p>
