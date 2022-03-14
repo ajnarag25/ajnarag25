@@ -1,13 +1,13 @@
 <h2 align="left">Hey there 👋</h2>
+
 <p>I'm hardworking, persevere, and fast learner person. Knowledgeable Web Developer brings front- and back-end design to promote organization-specific website presence. Using HTML, CSS and JavaScript to generate custom web page designs and with the use of PHP and Python programming languages to provide a back-end function.</p>
+
 
 - 🔭 I’m currently working on **Web development Pojects**
 
 - 👨‍💻 All of my projects are available at [http://ajnarag-portfolio.herokuapp.com/](http://ajnarag-portfolio.herokuapp.com/)
 
 - 📫 How to reach me **ajnarag25@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnarag25&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ajnarag25" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
