@@ -1,3 +1,4 @@
+<p align="center"><img src="coding.gif" alt="coding" width="300"/></p>
 <h2 align="left">Hey there 👋</h2>
 
 <p>I'm hardworking, persevere, and fast learner person. Knowledgeable Web Developer brings front- and back-end design to promote organization-specific website presence. Using HTML, CSS and JavaScript to generate custom web page designs and with the use of PHP and Python programming languages to provide a back-end function.</p>
