@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avor John A. Narag</h1>
-<h3 align="center">I'm hardworking, persevere, and fast learner person. Knowledgeable Web Developer brings front- and back-end design to promote organization-specific website presence. Using HTML, CSS and JavaScript to generate custom web page designs and with the use of PHP and Python programming languages to provide a back-end function.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnarag25&label=Profile%20views&color=0e75b6&style=flat" alt="ajnarag25" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajnarag25&label=Profile%20views&color=0e75b6&style=flat" alt="ajnarag25" /> </p>
 
 - 🔭 I’m currently working on **Web development Pojects**
 
