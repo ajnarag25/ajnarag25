@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web development Pojects**
 
-- 👨‍💻 All of my projects are available at [https://ajnarag-portfolio.netlify.app/](https://ajnarag-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ajnarag-portfolio.netlify.app/](https://ajnarag25.github.io/my-portfolio/)
 
 - 📫 How to reach me **ajnarag25@gmail.com**
 
