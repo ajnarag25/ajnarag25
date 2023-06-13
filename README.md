@@ -4,7 +4,7 @@
 <p>I'm hardworking, persevere, and fast learner person. Knowledgeable Web Developer brings front- and back-end design to promote organization-specific website presence. Using HTML, CSS and JavaScript to generate custom web page designs and with the use of PHP and Python programming languages to provide a back-end function.</p>
 
 
-- 🔭 I’m currently working on **Web development Pojects**
+- 🔭 I’m currently working on **Web development Pojects and Software applications**
 
 - 👨‍💻 All of my projects are available at [https://ajnarag25.github.io/my-portfolio/](https://ajnarag25.github.io/my-portfolio/)
 
