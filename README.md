@@ -12,7 +12,7 @@
 
 If you like my work?
 <br><br>
-<a href="https://www.buymeacoffee.com/ajnarag25X" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="185px" ></a>
+<a href="https://www.buymeacoffee.com/ajnarag25X" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="200px" ></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
