@@ -1,10 +1,10 @@
 <p align="center"><img src="coding.gif" alt="coding" width="300"/></p>
 <h2 align="left">Hey there 👋</h2>
 
-<p>I'm hardworking, persevere, and fast learner person. Knowledgeable Web Developer brings front- and back-end design to promote organization-specific website presence. Using HTML, CSS and JavaScript to generate custom web page designs and with the use of PHP and Python programming languages to provide a back-end function.</p>
+<p>I'm a hardworking, persevering, and fast-learning individual with expertise as a Web Developer and ABAP Developer. On the web development side, I excel in creating front-end and back-end solutions, leveraging HTML, CSS, and JavaScript for custom designs, and utilizing PHP and Python for robust backend functionalities. As an ABAP Developer, I bring proficiency in advanced tools and techniques, including Core Data Services (CDS), Smart Forms, BAPIs, BADIs, and database management, ensuring efficient and innovative solutions for SAP environments.</p>
 
 
-- 🔭 I’m currently working on **Web development Pojects and Software applications**
+- 🔭 I’m currently working on **ABAP Development and Website Development**
 
 - 👨‍💻 All of my projects are available at [https://ajnarag25.github.io/my-portfolio/](https://ajnarag25.github.io/my-portfolio/)
 
